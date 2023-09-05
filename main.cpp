@@ -3,7 +3,7 @@
 int main()
 {
 
-	std::cout << "First Name: Tyler" << std::endl << "Last Name: Abbondanza" << std::endl;
+	std::cout << "First Name: Tyler & Aiden" << std::endl << "Last Name: Abbondanza & Rose" << std::endl;
 
 	return 0;
 
